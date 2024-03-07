@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+name is Frank Yang, student number is 1007639254
+
+```{r}
+1 + 1
+```
+
+[My CV](cvyang.pdf)
